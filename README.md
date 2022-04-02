@@ -9,7 +9,7 @@ Practice project for System Design. Problem statement is attached as a File.
 5) Snake and ladder can be a subclass of Another class as they have similar properties.
 
 ### Sample Input File has input as: 
-No of Snakes followed by start,end pair
-No of Ladders followed by start,end pair
-No of Players followed by their names
-Dice first and last values
+1) No of Snakes followed by start,end pair
+2) No of Ladders followed by start,end pair
+3) No of Players followed by their names
+4) Dice first and last values
