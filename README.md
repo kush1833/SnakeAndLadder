@@ -7,3 +7,9 @@ Practice project for System Design. Problem statement is attached as a File.
 3) A separate service for Player moves
 4) A different strategy for dice roll which is called by dice-service
 5) Snake and ladder can be a subclass of Another class as they have similar properties.
+
+### Sample Input File has input as: 
+No of Snakes followed by start,end pair
+No of Ladders followed by start,end pair
+No of Players followed by their names
+Dice first and last values
